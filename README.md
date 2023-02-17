@@ -7,10 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
+  
 ### Screenshot
 
 ![screenshot](https://user-images.githubusercontent.com/96730122/219510183-c4c63785-18f4-4f8c-b976-cded288d100f.jpeg)
